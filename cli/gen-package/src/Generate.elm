@@ -1,4 +1,4 @@
-module Generate exposing (main)
+module Generate exposing (main, moduleToFile, parseSources)
 
 {-| -}
 
